@@ -8266,6 +8266,7 @@
 # 代理列表
 
 # MyList && Other
+(^|\.)\w*granbluefantasy\w*\.\w*$
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
 (^|\.)cccat\.io$
