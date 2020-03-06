@@ -1563,6 +1563,7 @@
 [proxy_list]
 
 # MyList
+(^|\.)\w*granbluefantasy\.jp\w*\.\w*$
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
 (^|\.)cccat\.io$
