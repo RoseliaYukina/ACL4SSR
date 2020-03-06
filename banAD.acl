@@ -13,7 +13,7 @@
 # [bypass_all] 默认直连
 # [outbound_block_list] 禁止访问列表 在25行
 # [bypass_list] 直连列表 在1207多行
-# [proxy_list] 代理列表 在6874多行
+# [proxy_list] 代理列表 在8265多行
 # [remote_dns] 远程 DNS 解析 -不加使用本地 DNS
 #
 #**********************************************************************
@@ -8266,7 +8266,7 @@
 # 代理列表
 
 # MyList && Other
-(^|\.)\w*granbluefantasy\w*\.\w*$
+(^|\.)\w*granbluefantasy\w*\..*$
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
 (^|\.)cccat\.io$
